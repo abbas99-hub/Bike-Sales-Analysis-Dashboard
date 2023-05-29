@@ -47,5 +47,15 @@ Dashboard Objectives:
 * Testing and Validation: Validate the accuracy of the dashboard by cross-referencing with the original dataset and ensuring the visualizations provide meaningful insights.
 * Deployment and Training: Publish the Power BI dashboard to a suitable platform and provide necessary training to end-users on how to effectively utilize the dashboard for sales analysis.
 
+## Insights:
+* The highest revenue, profit, and cost was recorded in 2015.
+* Between 2011 and 2016, the company was able to get 1,333,705 orders which resulted in
+total revenue of $94,688,588 and a total profit of $41,08,055 from 6 different countries.
+* Adult age category generated 66% of the total revenue while the female gender generated
+51% of the total revenue.
+* From 2011- 2014, adult females generated the highest revenue, then in 2016 adult male
+generated the highest revenue. This shows that adult females are the largest consumer of the
+company’s products so far.
+
 ## Conclusion:
 This Power BI project aims to create a comprehensive sales analysis dashboard using the provided dataset. By visualizing the sales data through various perspectives, the dashboard will enable users to gain valuable insights into sales performance, customer behavior, and product trends. The interactive nature of the dashboard will empower users to make data-driven decisions, identify growth opportunities, and optimize sales strategies.
